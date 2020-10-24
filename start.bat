@@ -1,0 +1,2 @@
+node BernieEtCorneil.js
+pause
